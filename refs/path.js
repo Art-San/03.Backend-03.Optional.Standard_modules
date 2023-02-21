@@ -1,3 +1,6 @@
+// предоставления утилитов для работы 
+// с путями к файлам и каталогам
+
 const path = require('path')
 
 console.log(path.dirname(__filename))           //  D:\1 Webpack, rollup\1. Проэкты обучение\03_module_node\03.Backend-03.Optional. Standard modules\refs
